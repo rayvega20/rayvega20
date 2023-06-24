@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 
 <div align="center">
    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayvega20&layout=compact&theme=tokyonight&count_private=true"> 
-   <img height="200" src="https://github-readme-stats.vercel.app/api?username=rayvega20&theme=tokyonight&show_icons=true&count_private=true">
+   <img height="200" src="https://github-readme-stats.vercel.app/api?username=rayveega20&theme=tokyonight&show_icons=true&count_private=true">
    
  </div>
 
