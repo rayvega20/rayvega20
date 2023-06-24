@@ -22,13 +22,13 @@ Here are some ideas to get you started:
     <img alt="#" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"/>
     </a>
     <a href="https://github.com/rayvega20" target="blank">
-    <img alt="Angel Gamboa" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="Ray Vega" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="#" target="_blank">
     <img alt="#" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/>
     </a>
     <a href="https://candidato.pe.computrabajo.com/candidate/home" target="_blank">
-    <img alt="Angel Gamboa Quispe" src="https://img.shields.io/badge/-Computrabajo-12sdkad2?style=for-the-badge&logo=Computrabajo&logoColor=white&color=skyblue"/>
+    <img alt="Ray Rene Vega Huaman" src="https://img.shields.io/badge/-Computrabajo-12sdkad2?style=for-the-badge&logo=Computrabajo&logoColor=white&color=skyblue"/>
     </a>
     <a href="https://www.youtube.com/@rave3602" target="_blank">
     <img alt="rave 360" src="https://img.shields.io/badge/-Youtube-12sdkad2?style=for-the-badge&logo=Youtube&logoColor=white&color=red"/>
