@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/rayvega20" target="blank">
     <img alt="Ray Vega" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="#" target="_blank">
+    <a href="https://www.linkedin.com/in/ray-rene-vega-huaman-0144ab222/" target="_blank">
     <img alt="#" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/>
     </a>
     <a href="https://candidato.pe.computrabajo.com/candidate/home" target="_blank">
